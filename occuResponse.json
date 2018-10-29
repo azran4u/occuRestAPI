@@ -1,0 +1,68 @@
+{
+  "page": 1,
+  "morePages": false,
+  "occu": [
+    {
+      "trg-id": "1",
+      "lastUpdated": "2012-02-25T18:25:43.511Z",
+      "status":"OK",
+      "description":"",
+      "page":1,
+      "morePages":false,
+      "intervals": [
+        {
+          "from": "2012-04-23T18:25:43.511Z",
+          "to": "2012-04-24T18:25:43.511Z"
+        },
+        {
+          "from": "2012-04-24T18:25:43.511Z",
+          "to": "2012-04-25T18:25:43.511Z"
+        },
+        {
+          "from": "2012-04-25T18:25:43.511Z",
+          "to": "2012-04-26T18:25:43.511Z"
+        }
+      ]
+    },
+    {
+      "trg-id": "2",
+      "lastUpdated": "2012-01-25T18:25:43.511Z",
+      "status":"OK",
+      "description":"",
+      "page":1,
+      "morePages":true,
+      "intervals": [
+        {
+          "from": "2012-04-23T18:25:43.511Z",
+          "to": "2012-04-24T18:25:43.511Z"
+        },
+        {
+          "from": "2012-04-24T18:25:43.511Z",
+          "to": "2012-04-25T18:25:43.511Z"
+        },
+        {
+          "from": "2012-04-25T18:25:43.511Z",
+          "to": "2012-04-26T18:25:43.511Z"
+        }
+      ]
+    },
+    {
+      "trg-id": "3",
+      "lastUpdated": "2012-01-25T18:25:43.511Z",
+      "status":"ERROR",
+      "description":"No Such trg-id",
+      "page":1,
+      "morePages":false,
+      "intervals": null
+    },
+    {
+      "trg-id": "4",
+      "lastUpdated": "2012-01-25T18:25:43.511Z",
+      "status":"ERROR",
+      "description":"Backend Service is unavailable",
+      "page":1,
+      "morePages":false,
+      "intervals": null
+    }
+  ]
+}

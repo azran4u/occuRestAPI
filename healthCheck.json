@@ -1,0 +1,6 @@
+// GET /v1
+// response - 200
+{
+  "status": "running",
+  "version": "fdb1d5e"
+}
