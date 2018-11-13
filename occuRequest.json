@@ -1,21 +1,9 @@
 {
-  "maxTrgsPerPage": 20,
-  "page":"1",
-  "trg":
-  [
-    {
-      "trg-id": "1",
-      "from": "2012-02-25T18:25:43.511Z",
-      "to": "2012-02-25T18:25:43.511Z",
-      "maxIntervalsPerPage": 20,
-      "page":1
-    },
-    {
-      "trg-id": "2",
-      "from": "2012-02-25T18:25:43.511Z",
-      "to": "2012-02-25T18:25:43.511Z",
-      "maxIntervalsPerPage": 20,
-      "page":1
-    }
-  ]
+  "Version": 1,
+  "Reality": 1,
+  "TimeFrame": {
+    "fromDate": "2012-02-25T18:25:43.511Z",
+    "toDate": "2012-02-25T18:25:43.511Z",
+  },
+  "trgList": [ "1", "2", "3" ]
 }
